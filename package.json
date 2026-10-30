@@ -1,0 +1,23 @@
+{
+  "name": "bigfiles",
+  "version": "1.0.0",
+  "description": "Les 20 plus gros fichiers de ton projet, pour alléger ton dépôt.",
+  "type": "module",
+  "bin": {
+    "bigfiles": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "author": "Varhex by Ȥrk Team (https://varhex.com)",
+  "repository": "github:zrk-lol/bigfiles",
+  "keywords": [
+    "cli",
+    "varhex",
+    "zero-dependency"
+  ]
+}
